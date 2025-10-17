@@ -146,7 +146,6 @@ npx playwright install
 **Autora do Projeto**
 
 **Andreza Dias**
-💼 Analista de Testes Automatizados
 📧 andreza.dias18@hotmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/andreza-dias-3186a3146/)
 
