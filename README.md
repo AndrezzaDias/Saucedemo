@@ -114,6 +114,7 @@ npx playwright install
 
 | Comando                          | Descrição                                                  |
 | -------------------------------- | ---------------------------------------------------------- |
+| `./parodify-playwright`          | Acessar a pasta onde está os arquivos para execução        |
 | `npx playwright test`            | Executa todos os testes automatizados                      |
 | `npx playwright test --ui`       | Executa os testes com interface interativa                 |
 | `npx playwright test --headless` | Executa os testes em modo headless (sem interface gráfica) |
